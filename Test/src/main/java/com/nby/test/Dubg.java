@@ -8,6 +8,6 @@ package com.nby.test;
  **/
 public class Dubg {
     public static void main(String[] args) {
-
+        System.out.println("NBY");
     }
 }
